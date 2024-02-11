@@ -1,0 +1,15 @@
+authtoken: 2cCzbFMWe0V2gLtFMAY3hKqjbOT_6BjKdtfiBGEP3ydEv9sxz
+version: 2
+tunnels:
+  your_tunnel_name:
+    proto: http
+    hostname: known-allegedly-moth.ngrok-free.app
+    addr: 127.0.0.1:80
+
+    # -------------------------
+    # Additional options
+    # -------------------------
+    # auth: "username:password"
+    # host_header: rewrite
+    # inspect: true
+    # bind_tls: true
